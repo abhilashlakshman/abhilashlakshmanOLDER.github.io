@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Lakshman_Abhilash-CV-CWRU.pdf
+description: This is a condensed version of my CV. Please click the PDF download button for a full CV.
 toc:
   sidebar: left
 ---
