@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate. <a href='https://asrc.gc.cuny.edu'> CUNY Advanced Science Research Center </a>.
+subtitle: Postdoctoral Research Associate. <a href='https://asrc.gc.cuny.edu'> CUNY Advanced Science Research Center</a>.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<i> "Why this absurd concern with clocks, my friend?" - Walter de la Mare </i>
+<i>"Why this absurd concern with clocks, my friend?" - Walter de la Mare</i>
 
 I study the dynamics of the neural network underlying timing of behavior. Most of us are familiar with the physical discomfort and mental disarray that accompanies mistimed sleep.
 
