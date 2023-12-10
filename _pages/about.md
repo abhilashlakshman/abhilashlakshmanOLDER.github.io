@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate . <a href='https://asrc.gc.cuny.edu'> CUNY Advanced Science Research Center </a>
+subtitle: Postdoctoral Research Associate. <a href='https://asrc.gc.cuny.edu'> CUNY Advanced Science Research Center </a>.
 
 profile:
   align: right
