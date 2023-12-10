@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>CUNY Advanced Science Research Center</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>labhilash@gc.cuny.edu</p>
+    <p>85 St. Nicholas Terrace</p>
+    <p>Neuroscience Initiative</p>
+    <p>New York, NY 10031</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
