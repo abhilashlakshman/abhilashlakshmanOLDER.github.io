@@ -15,22 +15,15 @@ profile:
     <p>labhilash@gc.cuny.edu</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 <i>"Why this absurd concern with clocks, my friend?" - Walter de la Mare</i>
 
-I study the dynamics of the neural network underlying timing of behavior. Most of us are familiar with the physical discomfort and mental disarray that accompanies mistimed sleep.
+Almost every organism on the planet exhibits rhythms in physiology, behavior, and metabolism on a 24-h basis. These rhythms are driven by networks in the brain that are called circadian clocks. Importantly, these clocks have a speed that is slightly different from 24-h. Therefore, our brains must sense cues in the environment and reset our clocks to an exactly 24-h schedule every day - a process called entrainment - a first rate biological problem.
 
-I'm a postdoctoral research associate at the [Neuroscience Initiative](https://asrc.gc.cuny.edu/neuroscience/) of the [Advanced Science Research Center](https://asrc.gc.cuny.edu) at the [Graduate Center of the City University of New York](https://www.gc.cuny.edu). I work with [Prof. Orie Shafer](https://www.shaferlab.org) on understanding how animals keep time and how their internal circadian clocks regulate the timing and amount of sleep.
+One of the most common manifestations of circadian clock regulated behaviors is something all of us experience - the daily rhythms in sleep and wakefulness. Most of us are familiar with the physical discomfort and mental disarray that accompanies mistimed sleep. Naturally, one can imagine the importance in understanding mechanisms in the brain that sense and adjust to a 24-h day.
 
-
-
-I did my undergraduate training in Zoology, Botany and Chemistry from the [University of Calcutta](https://www.caluniv.ac.in) before moving to the [Jawaharlal Nehru Center for Advanced Scientific Research](https://www.jncasr.ac.in) in Bangalore for my MS and Ph.D. As a graduate student, I was trained in chronobiology, population genetics and dynamics, animal behavior, behavioral neurogenetics and quantitative tools in biology.
-<br>
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research uses behavioral methods, mathematical models, and advanced computational and statistical tools to understand mechanisms underlying appropriate timing of sleep. See my [projects](abhilashlakshman.github.io/projects) page for more details on my research and the big questions I am interested in asking.
