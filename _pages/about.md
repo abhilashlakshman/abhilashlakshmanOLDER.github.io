@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> [CUNY Advanced Science Research Center](https://asrc.gc.cuny.edu) </a>
+subtitle: <a href='https://asrc.gc.cuny.edu'> CUNY Advanced Science Research Center </a>
 
 profile:
   align: right
