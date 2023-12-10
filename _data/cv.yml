@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Abhilash Lakshman
-    - name: Date of Birth
-      value: 16th November 1990
-    - name: Languages
-      value: English, Hindi, Tamil, Bengali
+    - name: Designation
+      value: Postdoctoral Research Associate
+    - name: Affiliation
+      value: CUNY Advanced Science Research Center
+    - name: Advisor
+      value: Prof. Orie Shafer
 
 - title: Education
   type: time_table
