@@ -28,4 +28,4 @@ One of the most common manifestations of circadian clock regulated behaviors is 
 
 My research uses behavioral methods, mathematical models, and simple yet powerful computational and statistical tools to understand mechanisms underlying appropriate timing of sleep. See my [projects](https://abhilashlakshman.github.io/projects/) page for more details on my research and the bigger questions I am interested in asking.
 
-I am currently on the faculty job market and the broader goals of my group will be to understand the role of heterogeneity in the brain in keeping us on a 24-h schedule.
+<b><i>I am currently on the faculty job market and the broader goals of my group will be to understand the role of heterogeneity in the brain in keeping us on a 24-h schedule.</i></b>
