@@ -26,4 +26,6 @@ Almost every organism on the planet exhibits rhythms in physiology, behavior, an
 
 One of the most common manifestations of circadian clock regulated behaviors is something all of us experience - the daily rhythms in sleep and wakefulness. Most of us are familiar with the physical discomfort and mental disarray that accompanies mistimed sleep. Naturally, one can imagine the importance in understanding mechanisms in the brain that sense and adjust to a 24-h day.
 
-My research uses behavioral methods, mathematical models, and simple yet powerful computational and statistical tools to understand mechanisms underlying appropriate timing of sleep. See my [projects](https://abhilashlakshman.github.io/projects/) page for more details on my research and the big questions I am interested in asking.
+My research uses behavioral methods, mathematical models, and simple yet powerful computational and statistical tools to understand mechanisms underlying appropriate timing of sleep. See my [projects](https://abhilashlakshman.github.io/projects/) page for more details on my research and the bigger questions I am interested in asking.
+
+I am currently on the faculty job market and the broader goals of my group will be to understand the role of heterogeneity in the brain in keeping us on a 24-h schedule.
