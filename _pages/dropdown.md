@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # I changed it to false from true to remove it from the header of the website.
 nav_order: 7
 dropdown: true
 children:
