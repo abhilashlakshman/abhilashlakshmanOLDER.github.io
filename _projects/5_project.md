@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: PHASE
+description: A MATLAB based free analysis tool!
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: tools
 ---
 
 Every project has a beautiful feature showcase page.
