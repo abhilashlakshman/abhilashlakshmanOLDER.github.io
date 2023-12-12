@@ -19,8 +19,6 @@ profile:
       <p>Courtesy: Shanté Booker</p>
 ---
 
-<img align = "right" src="https://abhilashlakshman.github.io/assets/img/teachingOutreach.jpg">
-
 <b><i>TEACHING and MENTORSHIP</i></b><br />
 
 High school student research 	<b>2022 – 2023</b><br />
@@ -48,8 +46,6 @@ Undergraduate summer research program 	<b>2015 – 2020</b><br />
 <i>Jawaharlal Nehru Center for Advanced Scientific Research, India.</i>
 
 <br />
-
-<img align = "left" src="https://abhilashlakshman.github.io/assets/img/teachingOutreach2.jpg">
 
 <b><i>SERVICE</i></b><br />
 
