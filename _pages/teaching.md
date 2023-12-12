@@ -15,7 +15,7 @@ profile:
 
 profile:
   align: left
-  image: teachingOutreach.jpg
+  image: teachingOutreach2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Image courtesy: Shanté Booker</p>
