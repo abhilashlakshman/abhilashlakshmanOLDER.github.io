@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: RhythmicAlly
+description: Shiny-based analysis program
 img:
 importance: 4
-category: fun
+category: tools
 ---
 
 Every project has a beautiful feature showcase page.
