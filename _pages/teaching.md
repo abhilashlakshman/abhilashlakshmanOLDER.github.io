@@ -46,7 +46,6 @@ Undergraduate summer research program 	<b>2015 – 2020</b><br />
 </div>
 
 <br />
-
 <b><i>SERVICE</i></b><br />
 
 <b><i>Upcoming</i></b><br />
