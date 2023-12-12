@@ -6,20 +6,18 @@ description: This section has a brief overview of my contributions to the academ
 nav: true
 nav_order: 5
 
-profile:
+profiles:
   align: right
   image: teachingOutreach.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Image courtesy: Shanté Booker</p>
 
-profile:
   align: left
   image: teachingOutreach2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Image courtesy: Shanté Booker</p>
-    
 ---
 
 <b><i>TEACHING and MENTORSHIP</i></b><br />
