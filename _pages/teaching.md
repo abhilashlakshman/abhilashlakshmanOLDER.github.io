@@ -5,6 +5,18 @@ title: teaching
 description: brief overview of my contributions to the academic community.
 nav: true
 nav_order: 5
+
+profile:
+  - align: right
+    image: teachingOutreach.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Courtesy: Shanté Booker</p>
+  - align: left
+    image: teachingOutreach2.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Courtesy: Shanté Booker</p>
 ---
 
 <img align = "right" src="https://abhilashlakshman.github.io/assets/img/teachingOutreach.jpg">
