@@ -9,11 +9,13 @@ nav_order: 5
 profile:
   - align: right
     image: teachingOutreach.jpg
+    width: 20%
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Courtesy: Shanté Booker</p>
   - align: left
     image: teachingOutreach2.jpg
+    width: 20%
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Courtesy: Shanté Booker</p>
