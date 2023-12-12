@@ -43,7 +43,7 @@ nav_order: 3
 </div>
 {% endif %}
 
----
+-----
 
 ### My lab affiliations and general sleep and circadian questions you may have
 - [Orie Shafer Lab](https://www.shaferlab.org)
