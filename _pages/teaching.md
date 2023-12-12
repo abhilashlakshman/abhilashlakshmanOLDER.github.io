@@ -41,6 +41,11 @@ Undergraduate summer research program 	<b>2015 – 2020</b><br />
         {% include figure.html path="assets/img/teachingOutreach2.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Courtesy: Shanté Booker
+</div>
+
+<br />
 
 <b><i>SERVICE</i></b><br />
 
