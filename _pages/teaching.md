@@ -33,6 +33,7 @@ Analysing Biological Rhythms (Graduate level)	<b>2019</b><br />
 Undergraduate summer research program 	<b>2015 – 2020</b><br />
 <i>Jawaharlal Nehru Center for Advanced Scientific Research, India.</i>
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/teachingOutreach.png" title="" class="img-fluid rounded z-depth-1" %}
@@ -45,7 +46,7 @@ Undergraduate summer research program 	<b>2015 – 2020</b><br />
     Courtesy: Shanté Booker
 </div>
 
-<br />
+
 <b><i>SERVICE</i></b><br />
 
 <b><i>Upcoming</i></b><br />
