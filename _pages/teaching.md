@@ -51,7 +51,7 @@ Undergraduate summer research program 	<b>2015 – 2020</b>
 
 <b><i>SERVICE</i></b>
 
-<b><i>Upcoming</i><b>
+<b><i>Upcoming</i></b>
 Chair 	<b>2025</b>
 <i>Gordon Research Seminar in Chronobiology</i>
 
