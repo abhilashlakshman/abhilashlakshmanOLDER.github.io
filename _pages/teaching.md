@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: teaching & service
+description: This section has a brief overview of my contributions to the academic community.
 nav: true
 nav_order: 5
 ---
