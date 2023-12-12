@@ -37,8 +37,6 @@ Undergraduate summer research program 	<b>2015 – 2020</b><br />
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/teachingOutreachSmall.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/teachingOutreachSmall2.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
