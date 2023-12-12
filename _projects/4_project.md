@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: phaseR
+description: upcoming analysis tool!
 img:
 importance: 3
-category: fun
+category: tools
 ---
 
 Every project has a beautiful feature showcase page.
