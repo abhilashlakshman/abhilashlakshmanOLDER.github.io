@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching & service
-description: This section has a brief overview of my contributions to the academic community.
+description: brief overview of my contributions to the academic community.
 nav: true
 nav_order: 5
 
@@ -12,7 +12,6 @@ profiles:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Image courtesy: Shanté Booker</p>
-
   align: left
   image: teachingOutreach2.jpg
   image_circular: false # crops the image to make it circular
