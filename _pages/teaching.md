@@ -5,8 +5,70 @@ title: teaching & service
 description: This section has a brief overview of my contributions to the academic community.
 nav: true
 nav_order: 5
+
+profile:
+  align: right
+  image: teachingOutreach.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Image courtesy: Shanté Booker</p>
+
+profile:
+  align: left
+  image: teachingOutreach.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Image courtesy: Shanté Booker</p>
+    
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<b><i>TEACHING and MENTORSHIP</i></b>
 
-Organize your courses by years, topics, or universities, however you like!
+High school student research 	<b>2022 – 2023</b>
+<i>Advanced Science Research Center, CUNY, New York, USA.</i>
+
+Statistical Hypothesis Testing (Graduate level)	<b>Sep 2022</b>
+<i>Jawaharlal Nehru Center for Advanced Scientific Research, India.</i>
+
+High school student research 	<b>2021 – 2022</b>
+<i>Advanced Science Research Center, CUNY, New York, USA.</i>
+
+Basic Chronobiology (Graduate level)	<b>2016 – 2020</b>
+<i>Jawaharlal Nehru Center for Advanced Scientific Research, India.</i>
+
+Advanced Chronobiology (Graduate level)	<b>2017</b>
+<i>Jawaharlal Nehru Center for Advanced Scientific Research, India.</i>
+
+Experimental Design and Statistical Hypothesis Testing for Biologists (Graduate level)	<b>2016 – 2020</b>
+<i>Jawaharlal Nehru Center for Advanced Scientific Research, India.</i>
+
+Analysing Biological Rhythms (Graduate level)	<b>2019</b>
+<i>CCS University, India.</i>
+
+Undergraduate summer research program 	<b>2015 – 2020</b>
+<i>Jawaharlal Nehru Center for Advanced Scientific Research, India.</i>
+
+
+<b><i>SERVICE</i></b>
+
+<b><i>Upcoming</i><b>
+Chair 	<b>2025</b>
+<i>Gordon Research Seminar in Chronobiology</i>
+
+<b><i>Past</i></b>
+Review Editor 	<b>2023 – Present</b>
+<i>Frontiers in Physiology (Chronobiology)</i>
+
+Preprint Editor (Systems Biology team lead)	<b>2023 – Present</b>
+<i>Proceedings of the Royal Society B</i>
+
+
+Independent peer reviewer 	<b>2019 – Present</b>
+<i>Journal of Biological Rhythms, F1000 Research</i>
+
+Content contributor 	<b>2022</b>
+<i>“Lighten Up! On Biology and Time” – An exhibition at EPFL Pavilions, Switzerland
+Exploring the connection of living organisms with the natural cycle of light and dark through the lens of art</i>
+
+Assisted peer review 	<b>2018 – Present</b>
+<i>Journal of Biological Rhythms, Current Biology, iScience, Journal of Comparative Physiology A, PLoS Biology, Nature</i>
