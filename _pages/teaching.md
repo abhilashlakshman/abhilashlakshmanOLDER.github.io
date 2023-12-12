@@ -5,18 +5,6 @@ title: teaching
 description: brief overview of my contributions to the academic community.
 nav: true
 nav_order: 5
-
-profile:
-  - align: right
-    image: teachingOutreachSmall.png
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Courtesy: Shanté Booker</p>
-  - align: left
-    image: teachingOutreach2Small.png
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Courtesy: Shanté Booker</p>
 ---
 
 <b><i>TEACHING and MENTORSHIP</i></b><br />
@@ -45,7 +33,16 @@ Analysing Biological Rhythms (Graduate level)	<b>2019</b><br />
 Undergraduate summer research program 	<b>2015 – 2020</b><br />
 <i>Jawaharlal Nehru Center for Advanced Scientific Research, India.</i>
 
-<br />
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/teachingOutreachSmall.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/teachingOutreachSmall2.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <b><i>SERVICE</i></b><br />
 
