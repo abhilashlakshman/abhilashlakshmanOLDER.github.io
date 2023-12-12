@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching & service
+title: teaching
 description: brief overview of my contributions to the academic community.
 nav: true
 nav_order: 5
