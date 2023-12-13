@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PHASE
-description: A MATLAB based free analysis tool!
+description: a MATLAB based free analysis tool!
 img: assets/img/phase1.jpeg
 importance: 3
 category: tools
