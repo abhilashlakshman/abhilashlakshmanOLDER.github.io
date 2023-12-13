@@ -2,8 +2,7 @@
 layout: page
 title: evolution of clocks
 description: what clock properties evolve under natural selection in the laboratory?
-img: assets/img/FlowerClock.jpg
-redirect: https://unsplash.com
+img: assets/img/FlowerClock.jpg # redirect: https://unsplash.com - commented this because I do not want this to redirect to a different page.
 importance: 3
 category: work
 ---
