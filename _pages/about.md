@@ -22,7 +22,11 @@ social: true  # includes social icons at the bottom of the page
 
 <i>"Why this absurd concern with clocks, my friend?" - Walter de la Mare</i>
 
+-----
+
 <b><i>I am currently on the faculty job market and the broader goals of my group will be to understand the role of heterogeneity in the brain in keeping us on a 24-h schedule.</i></b>
+
+-----
 
 Almost every organism on the planet exhibits rhythms in physiology, behavior, and metabolism on a 24-h basis. These rhythms are driven by networks in the brain that are called circadian clocks. Importantly, these clocks have a speed that is slightly different from 24-h. Therefore, our brains must sense cues in the environment and reset our clocks to an exactly 24-h schedule every day - a process called entrainment - a first rate biological problem.
 
