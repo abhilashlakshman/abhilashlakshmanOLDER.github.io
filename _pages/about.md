@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 -----
 
-<b><i>I am currently on the faculty job market and the broader goals of my group will be to understand the role of heterogeneity in the brain in keeping us on a 24-h schedule.</i></b>
+<b><i>I am currently on the faculty job market and the broader goals of my group will be to understand the role of brain-wide heterogeneity in keeping us on an accurate 24-h schedule.</i></b>
 
 -----
 
