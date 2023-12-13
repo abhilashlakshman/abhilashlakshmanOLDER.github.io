@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: list also includes preprints
+description: List also includes preprints
 nav: true
 nav_order: 1
 ---
