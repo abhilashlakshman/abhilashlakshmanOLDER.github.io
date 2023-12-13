@@ -16,10 +16,10 @@ A major plus of this software is the ability of subjective marking of phases of 
         {% include figure.html path="assets/img/rhythmically2.jpeg" title="all actograms" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rhythmically3.jpg" title="actograms and power" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rhythmically3.jpeg" title="actograms and power" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rhythmically4.jpg" title="mangrove cricket data" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rhythmically4.jpeg" title="mangrove cricket data" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
