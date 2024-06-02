@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Associate. <a href='https://asrc.gc.cuny.edu'> C
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   # more_info: >
     #<p>85 St. Nicholas Terrace</p>
