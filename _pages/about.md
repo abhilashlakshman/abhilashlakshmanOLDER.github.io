@@ -11,8 +11,7 @@ profile:
   # more_info: >
     #<p>Multidisciplinary Science Building II</p>
     #<p>702 N Walnut Grove Ave</p>
-    #<p>Bloomington</p>
-    #<p>IN 47405</p>
+    #<p>Bloomington, IN 47405</p>
     #<p>labhilas@iu.edu</p>
 
 news: true  # includes a list of news items
