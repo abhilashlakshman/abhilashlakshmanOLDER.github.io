@@ -2,17 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate. <a href='https://asrc.gc.cuny.edu'> CUNY Advanced Science Research Center</a>.
+subtitle: Postdoctoral Fellow. <a href='https://gillinstitute.iu.edu/index.html'> Gill Instiutute for Neuroscience: Indiana University</a>.
 
 profile:
   align: right
   image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   # more_info: >
-    #<p>85 St. Nicholas Terrace</p>
-    #<p>Neuroscience Initiative</p>
-    #<p>New York, NY 10031</p>
-    #<p>labhilash@gc.cuny.edu</p>
+    #<p>Multidisciplinary Science Building II</p>
+    #<p>702 N Walnut Grove Ave</p>
+    #<p>Bloomington</p>
+    #<p>IN 47405</p>
+    #<p>labhilas@iu.edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -24,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 -----
 
-<b><i>I am currently on the faculty job market and the broader goals of my group will be to understand the role of brain-wide heterogeneity in keeping us on an accurate 24-h schedule.</i></b>
+<b><i>I am currently on the faculty job market and the broader goals of my group will be to understand the behavioral ecology and proximate underpinnings of the timing of sleep/wake rhythms.</i></b>
 
 -----
 
