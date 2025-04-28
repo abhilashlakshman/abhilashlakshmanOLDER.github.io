@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow. <a href='https://gillinstitute.iu.edu/'> Gill Instiutute for Neuroscience: Indiana University</a>. Wonder if this is working.
+subtitle: Postdoctoral Fellow. <a href='https://gillinstitute.iu.edu/'> Gill Instiutute for Neuroscience - Indiana University</a>.
 
 profile:
   align: right
