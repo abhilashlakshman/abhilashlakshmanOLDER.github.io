@@ -4,7 +4,7 @@
 Chair 	<b>2025</b><br />
 <i>Gordon Research Seminar in Chronobiology</i>
 
-<b><i>Past</i></b><br />
+<b><i>Ongoing</i></b><br />
 Review Editor 	<b>2023 – Present</b><br />
 <i>Frontiers in Physiology (Chronobiology)</i>
 
