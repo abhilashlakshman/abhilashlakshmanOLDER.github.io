@@ -9,6 +9,25 @@ nav_order: 5
 
 <b><i>TEACHING and MENTORSHIP</i></b><br />
 
+Time-series Analysis and Entrainment <b>March, 2025</b><br />
+<i>EMBO Chronobiology School, Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore, India.</i>
+
+Statistical Hypothesis Testing for Biologists <b>October, 2024</b><br />
+<i>Graduate Center, CUNY, New York, USA.</i>
+
+Statistical Hypothesis Testing and R Programming for Biologists <b>Spring, 2024</b><br />
+<i>Advanced Science Research Center, CUNY, New York, USA.</i>
+
+Scientific Rigor and Data Management <b>April, 2024</b><br />
+<i>Graduate Center, CUNY, New York, USA.</i>
+
+Responsible Conduct of Research <b>March, 2024</b><br />
+<i>Graduate Center, CUNY, New York, USA.</i>
+
+Undergraduate student research 	<b>2023 – Present</b><br />
+<i>Advanced Science Research Center, CUNY, New York, USA.</i><br />
+<i>Gill Institute for Neuroscience - Indiana University, Bloomington, IN, USA.</i>
+
 High school student research 	<b>2022 – 2023</b><br />
 <i>Advanced Science Research Center, CUNY, New York, USA.</i>
 
