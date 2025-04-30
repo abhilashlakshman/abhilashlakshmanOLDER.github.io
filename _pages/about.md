@@ -24,13 +24,13 @@ social: true  # includes social icons at the bottom of the page
 
 -----
 
-<b><i>I am currently on the faculty job market and the broader goals of my group will be to understand the behavioral ecology and proximate underpinnings of the timing of sleep/wake rhythms.</i></b>
+<b><i>I am currently on the faculty job market and the broader goals of my group will be to understand the intricate inter-relationships between circadian timekeeping in central and peripheral tissues, sleep, and metabolism. My other interests include studying the behavioral ecology of the timing of sleep/wake rhythms and bringing together evolution and neuroscience in the context of rhythmic behaviors.</i></b>
 
 -----
 
 Almost every organism on the planet exhibits rhythms in physiology, behavior, and metabolism on a 24-h basis. These rhythms are driven by networks in the brain that are called circadian clocks. Importantly, these clocks have a speed that is slightly different from 24-h. Therefore, our brains must sense cues in the environment and reset our clocks to an exactly 24-h schedule every day - a process called entrainment - a first rate biological problem.
 
-One of the most common manifestations of circadian clock regulated behaviors is something all of us experience - the daily rhythms in sleep and wakefulness. Most of us are familiar with the physical discomfort and mental disarray that accompanies mistimed sleep. Naturally, one can imagine the importance in understanding mechanisms in the brain that sense and adjust to a 24-h day.
+One of the most common manifestations of circadian clock regulated behaviors is something all of us experience - the daily rhythms in sleep and wakefulness. Most of us are familiar with the physical discomfort and mental disarray that accompanies mistimed sleep. Naturally, one can imagine the importance of understanding mechanisms in the brain that sense and adjust to a 24-h day, thereby ensuring appropriate timing and amounts of sleep.
 
 My research uses behavioral methods, mathematical models, and simple yet powerful computational and statistical tools to understand mechanisms underlying appropriate timing of sleep. See my [projects](https://abhilashlakshman.github.io/projects/) page for more details on my research and the bigger questions I am interested in asking.
 
