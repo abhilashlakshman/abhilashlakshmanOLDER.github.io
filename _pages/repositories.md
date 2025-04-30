@@ -7,6 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+### Open Science resources
+- [Open Science Framework](https://osf.io)
+- [Open Microscopy Environment](https://www.openmicroscopy.org/omero/)
+- [FAIR Data Principles](https://www.go-fair.org/fair-principles/)
+- [BioImaging North America](https://www.bioimagingnorthamerica.org)
+
 ### My lab affiliations and general sleep and circadian questions you may have
 - [Orie Shafer Lab](https://www.shaferlab.org)
 - [Sheeba Vasu Lab](https://www.clockclub.org)
