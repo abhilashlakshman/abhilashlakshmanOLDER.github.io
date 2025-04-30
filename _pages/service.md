@@ -17,13 +17,13 @@ Preprint Editor (Systems Biology team lead)	<b>2023 – Present</b><br />
 Independent peer reviewer 	<b>2019 – Present</b><br />
 <i>Journal of Biological Rhythms, F1000 Research</i>
 
-Content contributor 	<b>2022</b><br />
-<i>“Lighten Up! On Biology and Time” – An exhibition at EPFL Pavilions, Switzerland
-Exploring the connection of living organisms with the natural cycle of light and dark through the lens of art</i>
-
 Assisted peer review 	<b>2018 – Present</b><br />
 <i>Journal of Biological Rhythms, Current Biology, iScience, Journal of Comparative Physiology A, PLoS Biology, Nature</i>
 
 <b><i>Previous</i></b><br />
 Community Science Outreach Volunteer	<b>2022 – 2024</b><br />
 <i>Advanced Science Research Center, CUNY, New York, USA.</i>
+
+Content contributor 	<b>2022</b><br />
+<i>“Lighten Up! On Biology and Time” – An exhibition at EPFL Pavilions, Switzerland
+Exploring the connection of living organisms with the natural cycle of light and dark through the lens of art</i>
